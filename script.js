@@ -3,5 +3,6 @@ console.log('hello world!!');
 
 function foo(){
     z = 321;
-    y = 123;
+    y = 1;
+    x = 2;
 }
