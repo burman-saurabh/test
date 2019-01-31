@@ -3,5 +3,5 @@ console.log('hello world!!');
 
 function foo(){
     x = 1;
-    return x;
+    return 1;
 }
