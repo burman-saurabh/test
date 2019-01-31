@@ -4,5 +4,6 @@ console.log('hello world!!');
 function foo(){
     x = 2;
     y = 3;
+  x = 1;
 
 }
